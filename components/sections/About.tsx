@@ -1,5 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
-import { Github, Twitter, Linkedin, FileText } from 'lucide-react';
+import { FaGithub, FaTwitter, FaLinkedin, FaFileAlt } from 'react-icons/fa';
 import { Button } from '@/components/ui/button';
 
 export default function About() {
@@ -31,27 +31,25 @@ export default function About() {
               variant="outline"
               size="icon"
               className="transition transform duration-200 active:scale-95 hover:scale-125"
-              aria-label="Github"
-              onClick={() =>
-                window.open('https://github.com/ShivaTejMatam', '_blank')
-              }
+              aria-label="GitHub"
+              onClick={() => window.open('https://github.com/ShivaTejMatam', '_blank')}
             >
-              <Github className="h-6 w-6 text-white hover:text-gray-300 transition-colors" />
+              <FaGithub className="h-6 w-6 text-white hover:text-gray-300 transition-colors" />
             </Button>
             <Button
               variant="outline"
               size="icon"
-                            className="transition transform duration-200 active:scale-95 hover:scale-125"
+              className="transition transform duration-200 active:scale-95 hover:scale-125"
               aria-label="Twitter"
               onClick={() => window.open('https://x.com/shivtejMatam', '_blank')}
             >
-              <Twitter className="h-6 w-6 text-white hover:text-gray-300 transition-colors" />
+              <FaTwitter className="h-6 w-6 text-white hover:text-gray-300 transition-colors" />
             </Button>
             <Button
               variant="outline"
               size="icon"
-                            className="transition transform duration-200 active:scale-95 hover:scale-125"
-              aria-label="Linkedin"
+              className="transition transform duration-200 active:scale-95 hover:scale-125"
+              aria-label="LinkedIn"
               onClick={() =>
                 window.open(
                   'https://www.linkedin.com/in/sivateja-matam-51420b231/',
@@ -59,7 +57,7 @@ export default function About() {
                 )
               }
             >
-              <Linkedin className="h-6 w-6 text-white hover:text-gray-300 transition-colors" />
+              <FaLinkedin className="h-6 w-6 text-white hover:text-gray-300 transition-colors" />
             </Button>
             <Button
               variant="outline"
@@ -68,12 +66,12 @@ export default function About() {
               aria-label="Resume"
               onClick={() =>
                 window.open(
-                  '/My_Resume.pdf',
+                  'https://drive.google.com/file/d/1IdgIConZTYrjFPmecgHSdqVUW2GI4AH8/view?usp=drive_link',
                   '_blank'
                 )
               }
             >
-              <FileText className="h-6 w-6 text-white hover:text-gray-300 transition-colors" />
+              <FaFileAlt className="h-6 w-6 text-white hover:text-gray-300 transition-colors" />
             </Button>
           </div>
         </div>
