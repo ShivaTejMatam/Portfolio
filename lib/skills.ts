@@ -1,0 +1,110 @@
+export const skills = [
+  {
+    name: "React Js",
+    icon: "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/react-of56d29pe4h55iptu3crb.png/react-2uh0qk5jwsgxiiribs5ox.png?_a=DAJFJtWIZAAC",
+    height: "10",
+    width: "10",
+  },
+  {
+    name: "Next Js",
+    icon: "https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg",
+    height: "10",
+    width: "10",
+  },
+  {
+    name: "Tailwind Css",
+    icon: "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/tailwindcss-icon-lxvdm2ckbakronpli3lie.png/tailwindcss-icon-w2935uwocqtqvv7q2q257.png?_a=DAJFJtWIZAAC",
+    height: "10",
+    width: "10",
+  },
+  {
+    name: "Node.js",
+    icon: "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/nodejs-j4c0hwu1qmirh64mynjuz.png/nodejs-0g7vrhqizuhwkx0tucqkyb.png?_a=DAJFJtWIZAAC",
+    height: "10",
+    width: "10",
+  },
+  {
+    name: "Express.js",
+    icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg",
+    height: "10",
+    width: "10",
+  },
+  {
+    name: "JavaScript",
+    icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",  
+    height: "10",
+    width: "10",
+  },
+  {
+    name: "Typescript",
+    icon: "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/typescript-icon-72zw2qe1mom0nafkd5pj6n.png/typescript-icon-lks16d1xu9b9qyidink7t.png?_a=DAJFJtWIZAAC",
+    height: "10",
+    width: "10",
+  },
+  {
+    name: "Java",
+    icon: "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/java-3l83r8hh7v5yhem0n2e1d.png/java-uny7np2dj70tb7u5at0ko.png?_a=DAJFJtWIZAAC",
+    height: "10",
+    width: "10",
+  },
+  {
+    name: "Python",
+    icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+    height: "10",
+    width: "10",
+  },
+  {
+    name: "Mongo DB",
+    icon: "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/mongodb-icon-qfb2w72fsgmue21n54x2ar.png/mongodb-icon-tzouctvl9mlat5c2vx39sg.png?_a=DAJFJtWIZAAC",
+    height: "10",
+    width: "10",
+  },
+  {
+    name: "Prisma",
+    icon: "https://prismalens.vercel.app/header/logo-white.svg",
+    height: "14",
+    width: "14",
+  },
+  {
+    name: "PostgreSQL",
+    icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg",
+    height: "10",
+    width: "10",
+  },
+  {
+    name: "Vercel AI SDK",
+    icon: "https://pipedream.com/s.v0/app_XaLh2x/logo/orig",
+    height: "10",
+    width: "10",
+  },
+  {
+    name: "Shadcn UI",
+    icon: "https://ui.shadcn.com/apple-touch-icon.png",
+    height: "10",
+    width: "10",
+  },
+  {
+    name: "Git",
+    icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
+    height: "10",
+    width: "10",
+  },
+  {
+    name: "Docker",
+    icon: "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/docker-icon-odll06b1fn8uy81gdxmj9o.png/docker-icon-qsxg85w6v7scr4udgmluk.png?_a=DAJFJtWIZAAC",
+    height: "10",
+    width: "10",
+  },
+  {
+    name: "Turborepo",
+    icon: "https://turbo.build/images/docs/repo/repo-hero-logo-dark.svg",
+    height: "10",
+    width: "10",
+  },
+  {
+    name: "Websockets",
+    icon: "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/websocket-w02xh571b3sxzooa60n1.png/websocket-16wzrfp0ko22h8s0km8xcb.png?_a=DAJFJtWIZAAC",
+    height: "10",
+    width: "10",
+  }
+];
