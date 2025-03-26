@@ -66,7 +66,7 @@ export default function About() {
               aria-label="Resume"
               onClick={() =>
                 window.open(
-                  'https://drive.google.com/file/d/1IdgIConZTYrjFPmecgHSdqVUW2GI4AH8/view?usp=drive_link',
+                  'https://drive.google.com/file/d/16Ds2Pe7lK2jhmUutcZ5wDIxLHisDLMwN/view?usp=drive_link',
                   '_blank'
                 )
               }
