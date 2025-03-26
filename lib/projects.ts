@@ -7,11 +7,11 @@ export interface Project {
   
   export const projects: Project[] = [
     {
-      title: "BlogPlatform",
+      title: "PostHive",
       description:
-         "Full-stack blog platform featuring CRUD operations, social interactions (likes & comments), tag categorization, and real-time notifications system.",    
-      link: "https://github.com/ShivaTejMatam/Blog-Platform",
-      techStacks: [ "Next Js", "Next Auth", "React Js","Tailwind Css","TypeScript","Prisma ORM","PostgreSQL","Node Js"]
+         "Developed a full-stack blog platform with React Js and TypeScript, enabling seamless post creation, likes, follows, and user authentication with JWT, powered by PostgreSQL and Prisma ORM for efficient data management.",    
+      link: "https://github.com/ShivaTejMatam/PostHive",
+      techStacks: [ "React Js","Tailwind Css","TypeScript","Prisma ORM","PostgreSQL","Node Js","Express Js","JWT"]
     },
     {
       title: "Real-time Chat application",
