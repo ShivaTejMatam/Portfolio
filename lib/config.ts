@@ -1,10 +1,10 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Rudra Sankha",
+  name: "SIVATEJA MATAM",
   description:
-    "Love to build coooool things.",
-  avatar_image: "https://avatars.githubusercontent.com/u/101992909?v=4",
+    "Exploring fullstack development journey",
+  avatar_image: "https://avatars.githubusercontent.com/ShivaTejMatam",
   mainNav: [
     {
       title: "Home",
@@ -12,9 +12,9 @@ export const siteConfig = {
     },
   ],
   links: {
-    linkedin: "https://www.linkedin.com/in/rudra-sankha-sinhamahapatra-6311aa1bb/",
-    twitter: "https://x.com/RudraSankha/",
-    github: "https://github.com/Rudra-Sankha-Sinhamahapatra/",
-    resume:"https://drive.google.com/file/d/1Ywfqe1PVMf1_gLw-QVgYQnsg-8vgXb0q/view?usp=drive_link"
+    linkedin: "https://www.linkedin.com/in/sivateja-matam-51420b231/",
+    twitter: "https://x.com/shivtejmatam",
+    github: "https://github.com/ShivaTejMatam",
+    resume:"https://drive.google.com/file/d/16Ds2Pe7lK2jhmUutcZ5wDIxLHisDLMwN/view?usp=drive_link"
   },
 }
