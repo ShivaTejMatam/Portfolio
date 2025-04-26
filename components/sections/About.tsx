@@ -19,13 +19,12 @@ export default function About() {
               </h2>
               <p className="mt-4 text-base md:text-lg text-white">
                 I&apos;m a Trained fullstack developer 🚀, graduated in CSE.
-              I&apos;m currently learning Web Dev and building projects.I am 
+              I&apos;m Proficient in Web Dev and building projects.I am 
               Actively seeking new job opportunities in software development. 
               </p>
             </div>
           </div>
 
- 
           <div className="flex gap-6">
             <Button
               variant="outline"
@@ -66,8 +65,7 @@ export default function About() {
               aria-label="Resume"
               onClick={() =>
                 window.open(
-                  'https://drive.google.com/file/d/16Ds2Pe7lK2jhmUutcZ5wDIxLHisDLMwN/view?usp=drive_link',
-                  '_blank'
+                  'https://drive.google.com/file/d/16Ds2Pe7lK2jhmUutcZ5wDIxLHisDLMwN/view?usp=drive_link'
                 )
               }
             >
